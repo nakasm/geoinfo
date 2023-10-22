@@ -20,6 +20,7 @@ MINIMUM=10**(-45)
 MIN=10 ** (-95)
 
 
+
 class Node:
     def __init__(self, node_id, lat, lon):
         self.node_id = node_id
